@@ -1,0 +1,556 @@
+ DATA STRUCTURES + ALGORITHMS wellexplained -->
+ https://prepinsta.com/data-structures/
+
+ DATA STRUCTURES SAN DIEGO STATE UNIVERSITY
+ https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk
+ 
+ GITHACK equivalent === https://statically.io/
+DANCE VIDEO ===> 
+        "Whitney Houston - whatchu lookin at"
+	"Natalia Oreiro - Cambio Dolor (Official Video)"
+	"Letoya - i'm good"  
+        "AALIYAH - TRY AGAIN"
+  		 " Gasha ft Law G - this life"
+                 "busta rhymes - pass the convoisier"
+		"chris brown - deuces (instrumental)"
+		“Monica ft. Dem Franchize Boyz - Everytime Tha Beat Drop”
+    " chris brown ft Jordin sparks - no air"
+    "Ciara ft Nicki Minaj - living it up"
+    "Sinik ft vitaa - ne dis jamais"
+    "Thalia - amor a la mexicana"
+    "justin beiber - never say never"
+
+
+
+BEST DATA STRUCTURE ARTICLE MEDIUM --> https://medium.com/@vaidehijoshi
+
+RAILS TUTORIALS (BEGINER SERIES) YOUTUBE --> https://www.youtube.com/watch?v=VyMh3Wd32pM&list=PLgYiyoyNPrv81SdYk-eoMFacl-CJTO_xa&index=66
+RAILS TUTORIALS SERIES YOUTUBE ---> https://www.youtube.com/watch?v=Xdak53R6-Yk&list=PLw3DVCAvDGUtrWrm0s2zxnbrgzkG5YAfF&index=45
+BUILD RAILS APPS ON YOUTUBE ---> https://www.youtube.com/watch?v=4ABesTeDKmQ&list=PL01nNIgQ4uxNkDZNMON-TrzDVNIk3cOz4
+
+
+https://www.skillshare.com/
+https://scrimba.com/
+
+synchronising a repo --> https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
+
+ vaScript: Understanding the Weird Parts - The First 3.5 Hours
+https://www.youtube.com/watch?v=Bv_5Zv5c-Ts
+
+Collecting All Cheat Sheets (programming languages)
+http://overapi.com
+
+0 - POWERFUL DESIGNS for PRACTICE replications
+https://line25.com/articles/20-website-concepts-with-stunning-full-page-designs
+
+1 - BEST HTML + CSS Tutorials
+https://learn.shayhowe.com/advanced-html-css/transitions-animations/
+
+2-RailsConf 2017: Tricks and treats for new developers by David Padilla
+https://www.youtube.com/watch?v=BZbW8FAvf00
+
+LINKED LISTS RUBY
+https://www.rubyguides.com/2017/08/ruby-linked-list/
+
+How to CSS Lint & Auto-fix using Stickler and Stylelint
+https://medium.com/@mrjohnkilonzi/how-to-css-lint-auto-fix-using-stickler-and-stylelint-37b52693d449
+  
+  
+Erik Michaels-Ober - Writing fast Ruby
+https://www.youtube.com/watch?v=fGFM_UrSp70
+  
+  
+RailsConf 2019 - Things I Wish I Knew Before Going Remote by Marla Brizel Zeschin
+https://www.youtube.com/watch?v=nUQ41-vBtdg
+
+3 - Game to UNDERSTAND FLEXBOX
+http://www.flexboxdefense.com/
+
+4 - Visualising data structures and algorithms
+https://visualgo.net/en
+rails
+5 - CSS Flex – Animated Tutorial
+https://t.co/KcsNAgAGbR
+
+
+6 - FLEX BOX GAmes (CSS)
+https://www.flexboxpatterns.com/
+
+7 - designing good databases
+https://youtu.be/1VsSXRPEBo0
+
+8 - Learn git concepts, not commands
+ https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
+
+9 - getting RAILS JOB
+https://www.youtube.com/watch?v=Fz77-ku7fS8
+
+10 - the CSS handbook
+The CSS Handbook: a handy guide to CSS for developers
+
+11 -  What does the time complexity O(log n) actually mean?
+https://hackernoon.com/what-does-the-time-complexity-o-log-n-actually-mean-45f94bb5bfbf
+
+12 - cool tech job search tips blog
+cvcompiler.com
+
+13 50+ Data Structure and Algorithms Interview Questions for Programmers
+https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
+
+14 - cool tech blogs to read stuffs 
+https://dev.to
+
+15 - 15 Sorting Algorithms in 6 Minutes
+https://www.youtube.com/watch?v=kPRA0W1kECg
+
+16 - follow this account for visualisations of all sorting algorithms
+https://www.youtube.com/channel/UC9m2XDfCnrS4QTzVBTrD89w
+
+17 - 30 seconds of interview
+https://30secondsofinterviews.org
+
+JEST + REACT ==> https://www.youtube.com/watch?v=esVwR4lGwQE&list=PLLnpHn493BHEqP3gD1pCJYhxX6v2gBZzj
+
+18 - a good React/ReactJS course
+    https://scriptverse.academy/tutorials/reactjs.html
+
+============================FOR BELLA -->FAITH EVANS - LOVING ME----"CASSIE - IS IT YOU" -----LLOYD ft Bun B - like me -----  A.KEYS ft EVE - Gangsta Lovin +  kiss daniel ft tiwa - woju(remix) +++ Hilary Duff - so yesterday +++ Bracket ft Flavor - together --- Jackie Hill Perry RAP--- tiffany evans -i'm grown --- MJ - thriller  --- beat ------ Kely price - and you dont stop ================
+
+18 - Learn git concepts, not commands 
+https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
+
+19 - Dynamic programming (MIT)
+https://www.youtube.com/watch?v=OQ5jsbhAv_M
+
+20 - How to spot a liar (TED)
+https://www.youtube.com/watch?v=P_6vDLq64gE
+
+21 - Stuk Live #2 - What do Tech Startups Look for in Candidates?
+https://www.youtube.com/watch?v=NtSoId1yT-s
+
+
+
+22 Programming blogs you can follow:
+-. CSS-Tricks
+-. Codepen
+-. The Crazy Programmer
+-. CodeWall
+-. Coding Horror
+-. Cloudscaling
+-. CodePen Blog
+-. Hackster
+-. A List Apart
+-. The Mozilla Blog
+
+23 - ONLINE CODING HACKATONS
+https://www.hackerearth.com/fr/challenges/
+
+24 - Free VIDEO tutorials 
+https://freevideolectures.com/
+
+
+25 - How to Integrate ‘devise’ and ‘omniauth-facebook’ Authentication To Your Rails App
+https://hackernoon.com/how-to-integrate-devise-and-omniauth-facebook-authentication-to-your-rails-app-tyiv3xpi
+
+Building an Instagram Clone in React-Native and Tailwind-CSS with a Ruby on Rails API only backend 
+(https://medium.com/swlh/building-an-instagram-clone-in-react-native-and-tailwind-css-with-a-ruby-on-rails-api-only-backend-8be79d6b987d)
+
+PLAYLIST RUBY ---> https://www.youtube.com/playlist?list=PLMK2xMz5H5Zv8eC8b4K6tMaE1-Z9FgSOp
+PLAYLIST CSS-ANIMATION --> https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5
+
+
+============================== KO-C - BALANCER -- Angelique Kidjo - "Batonga" +++ Tzy Panchak - Galilee ft. Gasha +++ NAASSI - pas fatigue ++++ jordin sparks - worth the wait ++++ CAMP ROCK2 - fire ++ Timbaland - hello ++++ NIVEA - get your x +++++ SHAREEFA - need a boss (instrumental)
+++++++ CHERISH - do it to it 
++++++ willow smith - whip my hair
++++++++ Chidinma Ft Wizkid - Emi Ni Baller Remix
+++++++ KARINA - can't bring me down
+=====================
+
+22 - flexbox generator 
+http://www.csstutorial.org/flex-both.html22 - flexbox generator
+
+22 - ActiveRecord’s Select & Pluck
+https://medium.com/@amliving/activerecords-select-pluck-3d5c58872053 
+
+23 - EAGER LOADING RAILS (n+1)
+ https://www.allerin.com/blog/eager-loading-inwith-rails 
+
+24 - implementing OMNIAUTH
+https://www.youtube.com/watch?v=VeUX3pWn28w
+https://github.com/rails-camp/facebook-omniauth-demo
+
+25 - Save time using SASS to create classes with variations
+https://medium.com/@tofernandes67/save-time-using-sass-to-create-classes-with-variations-95aaf4101eb8
+
+26 - COOL INDIAN CODING CHALLENGES
+https://www.youtube.com/user/vivekanandkhyade/videos
+
+27 - JAVASCRIPT tutorial
+https://www.youtube.com/user/learncodeacademy/playlists
+
+28 - YOU DONT KNOW JS YET
+https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed
+
+..................................>
+29 - REACT YOUTUBE tutorial
+https://www.youtube.com/watch?v=Cla1WwguArA&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=5
+
+30 - Map, Filter and Reduce – Animated
+https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47
+
+REACT-REDUX
+https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
+
+REACT FORMS with FORMIK
+https://www.youtube.com/watch?v=Yw27J-AFlk0&list=PLC3y8-rFHvwiPmFbtzEWjESkqBVDbdgGu&index=2
+
+PURCHASED REACT course on SCRIMBA
+https://scrimba.com/course/greact
+
+Deploying react app --> https://vercel.com/
+
+Want to build something fun? Here’s a list of sample web app ideas.
+https://www.freecodecamp.org/news/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a/
+
+Build a RESTful JSON API With Rails 5 - Part Two
+https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-two/amp
+
+------------------------------------->
+
+30 - STRAIGHT TO THE POINT JAVASCRIPT TUTORIAL
+http://dmitrysoshnikov.com/
+
+31 - JAVASCRIPT/REACT powerful BLOG POSTS
+https://www.robinwieruch.de/blog
+
+32 - ROAD TO LEARN REACT
+https://github.com/the-road-to-learn-react/the-road-to-learn-react
+
+33 - NICE Javascript MEDIUM articles
+https://medium.com/@js_tut
+
+34 - Weird JAVASCRIPT
+https://wtfjs.com/
+
+35 - The 50 Best Websites to Learn Ruby
+https://www.codeconquest.com/blog/top-50-websites-to-learn-ruby/
+my best RUBY course ---> https://rubymonk.com/
+
+36 - Entity relation Diagrams (ERD) online tool
+https://www.lucidchart.com
+
+37 - DATABASE/SQL tutorials --> https://dataschool.com/learn-sql
+
+38 - POSTGRES SQL --> https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-ruby-on-rails-application-on-macos
+
+39 - vi/vim cheatsheet --> https://vimsheet.com/
+
+40 - GOOOOOOOOOOOOD JAVASCRIPT TUTORIAL
+https://www.bitdegree.org/learn/javascript-date
+
+41 -  An emoji guide for your commit messages ( github)
+https://gitmoji.carloscuesta.me/
+
+
+42 - RUBY SYMBOLS EXPLAINED
+    https://www.youtube.com/watch?v=mBXGBbEbXZY
+
+43 - Rails callbacks cheatsheet
+    https://juliannaroen.com/assets/rails_callbacks_cheat_sheet.pdf
+
+44 - SEARCH ENGINE for tutorials
+    https://learnawesome.org/
+
+45 - RUBY ON RAILS TRICKS (playlist)
+  https://www.youtube.com/playlist?list=PLHjnT3piktK3N5LcBo1o8udnkBkAg6tNo
+
+46 -  https://www.agileventures.org/
+(code for charities)
+
+47 - cover letter template
+  https://cover-letter.netlify.com/
+
+48 - Bash for Beginers
+    https://www.youtube.com/playlist?list=PLCAF7D691FFA25555
+
+49 - CV writing
+flowcv.io
+
+CONTRIBUTE TO OPEN SOURCE
+https://firstcontributions.github.io/
+
+
+
+SCOTT STORCH BEATS ===> https://www.youtube.com/watch?v=F4NQfP-H6gk&list=PLPHx86CJqeWnBcOUIePufDNd1XzzBnH21&index=44
+
+------------------JOB SEARCH AFTER MICROVERSE -------------------------
+
+////// job preparations ////////
+
+--> CRACK CODING INTERVIEW 
+    1 - https://www.youtube.com/watch?v=aClxtDcdpsQ
+    2 - https://www.youtube.com/watch?v=2cf9xo1S134
+
+--> SAMPLE LINKEDIN Profile to emulate
+     - https://www.linkedin.com/in/raymond-gan-0ba8011/
+
+--> A Visual Introduction to Algorithms
+     https://www.educative.io/courses/visual-introduction-to-algorithms
+
+
+--> searching for job in Canada
+      https://www.quora.com/What-are-the-best-ways-to-apply-to-jobs-in-Canada
+
+--> GETTING UNSTUCK (Les Brown)
+      https://www.youtube.com/watch?v=zTNNKUBDNsU
+
+-- SOFT SKILLS 
+      https://softskills.audio/
+
+-- state-of-software-engineers
+    https://hired.com/page/state-of-software-engineers/key-takeaways/
+
+-- 10 Awesome Github Repos Every Web Developer Should Know 
+    https://medium.com/better-programming/10-awesome-github-repos-every-web-developer-should-know-15288c8533f1
+
+-- Build a Simple Search with the simple_form Gem in Rails 5
+    https://medium.com/le-wagon/build-a-simple-search-with-the-simple-form-gem-in-rails-5-b247168282d1
+
+  [FABIEN LINKS]
+
+-- https://triplebyte.com/iv/a5puqHy/cp/header
+
+-- https://trycircular.com/
+
+
+
+-- Hi folks! I’ve recently completed a technical assessment for an interview. They demanded a Rails application but with Rails 4 version. Honestly, that wasn’t too difficult to troubleshoot its errors but took a lot of time. I’d recommend at least knowing differences between rails versions and learn how-to switch rails, ruby, bundler versions effectively. Also, get prepare yourself for complex SQL queries rather than “.all” or simple “.where” conditions. I passed all test cases within the given time but I could have put better solutions exactly in less time.
+===============================
+
+1 check this ==> https://www.devcenter.co/top-talent/software-developer
+
+2 apply TUNGA ==> Hi Chris, thanks for your mail. You can apply here: https://tunga.io/join
+Rgds, Bart
+
+3 send CV to that LINKEDIN profile (of woman recruiting Ruby dev with visa)
+
+4 - apply job ====> https://remotive.io/
+
+5 - online screening --> https://triplebyte.com (i already have account with my yahoo account)  
+
+6 - connect with jobs in EUROPE --> https://www.devs.casparcoding.com/
+
+7 - recruiting RH on linkedin --> https://www.linkedin.com/in/fannycardin/
+
+8 - Job docs by TEVER --> https://docs.google.com/document/d/1FxntRrtTJ9CKkrFogjwq63Di0d-xP5oArz025wj2GA4/edit
+
+9 - https://www.learnenough.com/
+    FULL COURSES on GIT + JS + RUBY + RAILS
+
+10 - https://remoteok.io/remote-ruby-jobs
+
+
+
+
+
+
+= = = = = = = = = = = = = = = = = OPEN SOURCE== = = = = = = = = = = = = = == = = = = = = = = = = = = = =
+@channel This week I'd like to focus on the concept of giving back to our local communities and the multiple ways one can go about doing just that.
+One of the best ways to give back is through volunteering our time and skills with an established organization and below you will find some I'd recommend:
+:ruby: Ruby Bogotá is currently looking for speakers to help host their upcoming Meetups in 2020: https://www.meetup.com/bogota-ruby-meetup/
+:javascript: Mozilla Foundation is always looking for Javascript programmers to help out with many different initiatives: http://www.whatcanidoformozilla.org/
+UN Volunteers is always on the lookout for tech talent to help out with a wide range of projects that fall under the UN umbrella: http://bit.ly/2LxH7TN
+There are also many code clubs with chapters throughout the world in need of mentors and volunteers to lend a hand.
+Global:
+:ruby_on_rails:Rails Girls: http://guides.railsgirls.com/guide
+Code Club: https://codeclub.org/en/get-involved
+================================================================================
+
+
+IMPORTANT COMMANDS
+
+- rails about
+- rails console --sandbox
+- rails generate migrations
+- rails generate controller {name}
+- rails generate model {name}
+- rails db:rollback
+
+- rails g migration CreateJoinTableCustomerProduct customer product  (many-2-many)
+( create_join_table :products, :categories, table_name: :categorization ) <---inside migration
+
+MIGRATION FILE BELOW
+-------------------------------------
+class CreateJoinTableProductCategory < ActiveRecord::Migration[5.2]
+  def change
+    create_join_table :products, :categories, table_name: :categorization do |t|
+      # t.index [:product_id, :category_id]
+      # t.index [:category_id, :product_id]
+    end
+  end 
+end
+------------------------------------
+
+
+-  db:reset = rails db:drop + rails db:setup
+- (U CAN REVERT A MIGRATION)
+- rails db:schema:load   <-------------- loading schema instead of running entire migration
+- reload!   <--------------------reload DB
+- RAILS BEST PRACTICE => https://www.youtube.com/watch?v=9XEFKtC1aRQ
+
+
+POSTGRE
+sudo -u postgres psql
+psql -U postgres -h localhost
+
+CREATES USER ('user1') AND PASSWORD('password')
+- sudo -u postgres createuser tom -d -P
+- sudo -u postgres createdb -O -Eutf8 events_dev     <----create 'events_dev' DATABASE'
+- sudo -u postgres createdb -O -Eutf8 events_testing <----create 'events_testing' DATABASE'
+- env ARCHFLAGS="-arch x86_64" gem install pg
+
+-------------------------------------------------
+1. LinkedIn Profile: 
+Good photo
+Strong job titled headline
+All-Star status
+2000 character summary, including keyword skills and achievements
+
+2. Resume in this order: 
+Professional Summary
+Core Competencies and Achievements
+Professional Experience
+Education
+Certifications
+Professional Training
+Volunteer Work
+
+3. Job Search: 
+LinkedIn Jobs
+Indeed, etc.
+Network in person and online
+Career fairs
+
+
+CREATE TABLE Contests(
+   contest_id Integer,
+   hacker_id Integer,
+   name varchar
+);
+INSERT INTO Contests VALUES (66406,17973,'Rose');
+INSERT INTO Contests VALUES (66556,79153,'Angela');
+INSERT INTO Contests VALUES (94828,802275,'Frank');
+
+
+CREATE TABLE Colleges(
+   college_id Integer,
+   contest_id Integer
+);
+INSERT INTO Colleges VALUES (11219,66406);
+INSERT INTO Colleges VALUES (32473,66556);
+INSERT INTO Colleges VALUES (56685,94828);
+
+CREATE TABLE Challenges(
+   challenge_id Integer,
+   college_id Integer
+);
+INSERT INTO Challenges VALUES (18765,11219);
+INSERT INTO Challenges VALUES (47127,11219);
+INSERT INTO Challenges VALUES (60292,32473);
+INSERT INTO Challenges VALUES (72974,56685);
+
+CREATE TABLE View_Stats(
+   challenge_id Integer,
+   total_views Integer,
+    total_unique_views Integer
+);
+INSERT INTO View_Stats VALUES (47127,26,19);
+INSERT INTO View_Stats VALUES (47127,15,14);
+INSERT INTO View_Stats VALUES (18765,43,10);
+INSERT INTO View_Stats VALUES (18765,72,13);
+INSERT INTO View_Stats VALUES (75516,35,17);
+INSERT INTO View_Stats VALUES (60292,11,10);
+INSERT INTO View_Stats VALUES (72974,41,15);
+INSERT INTO View_Stats VALUES (75516,75,11);
+
+CREATE TABLE Submission_Stats(
+   challenge_id Integer,
+   total_submissions Integer,
+    total_accepted_submissions Integer
+);
+INSERT INTO Submission_Stats VALUES (75516,34,12);
+INSERT INTO Submission_Stats VALUES (47127,27,10);
+INSERT INTO Submission_Stats VALUES (47127,56,18);
+INSERT INTO Submission_Stats VALUES (75516,74,12);
+INSERT INTO Submission_Stats VALUES (75516,83,8);
+INSERT INTO Submission_Stats VALUES (72974,68,24);
+INSERT INTO Submission_Stats VALUES (72974,82,14);
+INSERT INTO Submission_Stats VALUES (47127,28,11);
+
+
+SELECT 
+Contests.contest_id, 
+Contests.hacker_id, 
+Contests.name, 
+SUM(total_submissions) AS total_submissions,
+SUM(total_accepted_submissions) AS total_accepted_submissions, 
+SUM(total_views) AS total_views, 
+SUM(total_unique_views) AS total_unique_views
+FROM
+  Contests 
+JOIN Colleges ON Contests.contest_id=Colleges.contest_id
+          JOIN Challenges  ON Colleges.college_id=Challenges.college_id
+           JOIN View_Stats ON Challenges.challenge_id=View_Stats.challenge_id
+            JOIN Submission_Stats ON View_Stats.challenge_id=Submission_Stats.challenge_id
+GROUP BY
+  Contests.contest_id, Contests.hacker_id,  Contests.name
+ORDER BY
+  Contests.contest_id;
+------------------
+
+SELECT 
+  Colleges.college_id,
+  Colleges.contest_id
+FROM
+  Colleges
+JOIN Challenges ON (Colleges.college_id = Challenges.college_id)
+HAVING 
+  Colleges.college_id
+IN
+
+    (SELECT
+    View_Stats.challenge_id,
+    SUM(total_submissions) as total_submissios,
+    SUM(total_accepted_submissions) as tot_acc_sub, 
+    SUM(total_views) as tot_views, 
+    SUM(total_unique_views) as tot_uniq_views
+    FROM
+      Submission_Stats 
+    FULL OUTER JOIN View_Stats ON Submission_Stats.challenge_id=View_Stats.challenge_id
+             GROUP BY
+      Submission_Stats.challenge_id, View_Stats.challenge_id );
+
+
+      -------------
+
+SELECT
+Colleges.college_id as college
+from
+Colleges
+JOIN Contests on (Colleges.contest_id=Contests.contest_id)
+;
+
+
+
+Why do people do dishonest things at work?
+What makes honesty powerful?
+What might motivate you to be dishonest at work?
+
+
+4-Minute Workout That Replaces 1 Hour in the Gym
+BRIGHT SIDE
+18M views
+2 years ago
+
+Maintenance préventive et périodique des ordinateurs de bureau /
+ordinateurs portables /imprimantes / scanners, etc.
