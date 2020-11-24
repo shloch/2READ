@@ -1,6 +1,8 @@
  DATA STRUCTURES + ALGORITHMS wellexplained -->
  https://prepinsta.com/data-structures/
 
+ MATHS BASICS FOR ENGINEERING --> https://www.mathsisfun.com/
+
  DATA STRUCTURES SAN DIEGO STATE UNIVERSITY
  https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk
  
