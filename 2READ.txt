@@ -1,5 +1,13 @@
+ "THE NET NINJA" ------> https://www.youtube.com/c/TheNetNinja/playlists
+
+ "Flexbox Froggy" ----> flexboxfroggy.com
+
+ 63 CSS resources --> https://twitter.com/Prathkum/status/1353271634057187331
+ 
  DATA STRUCTURES + ALGORITHMS wellexplained -->
  https://prepinsta.com/data-structures/
+
+ SAMPLE REACT PROJECTS --> https://www.golangprograms.com/react-js.html
 
  MATHS BASICS FOR ENGINEERING --> https://www.mathsisfun.com/
 
